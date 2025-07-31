@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Tirth — building AI tools for a better world 🌍
 
-<!--
-**TIRTHAVAIYA/TIRTHAVAIYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about creating intelligent systems that solve real-world problems, especially those aligned with the **UN Sustainable Development Goals (SDGs)**. I believe technology can drive positive impact — from promoting climate action to improving agriculture and community health.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Projects That Matter
+
+- 🔗 [**EcoMate – Agentic AI for SDG 13 (Climate Action)**](https://github.com/TIRTHAVAIYA/EcoMate-Agentic-AI)  
+  Real-time weather updates, AQI analysis, carbon footprint estimation, and smart transport suggestions — all in one intelligent assistant.  
+  *Built with: Python, Gradio, LangChain, OpenAI, Weather APIs*
+
+- 🔗 [**AgroEye – ML Crop Health Predictor for SDG 2 (Zero Hunger)**](https://github.com/TIRTHAVAIYA/AgroEye-ML-Crop-Health-Predictor)  
+  A machine learning project for analyzing crop health from agricultural data — helping pave the way for smart farming practices.  
+  *Built with: Python, Scikit-learn, Gradio*
+
+---
+
+## 🧠 Skills & Tools
+
+`Python` • `Machine Learning` • `Gradio` • `LangChain` • `OpenAI API`  
+`Google Colab` • `Scikit-learn` • `Git & GitHub` • `API Integration`
+
+---
+
+## 🚀 Interests
+
+- 🌾 Smart and Sustainable Agriculture  
+- 🌦️ Climate Intelligence & Monitoring  
+- 🛰️ Earth Observation and Remote Sensing  
+- 🧠 Agentic AI and Applied Machine Learning
+
+---
+
+## 💡 Leadership & Community
+
+- 📌 **Management Lead – Google Developer Groups (GDG), GEC Bhavnagar**  
+- 🏋️ **President – The Purple Dopamine Club**, promoting fitness and mental wellness  
+- 🧩 Active in organizing tech workshops, hackathons, and AI awareness campaigns
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tirth-avaiya-58b017239)  
+- 🧪 [GitHub](https://github.com/TIRTHAVAIYA)
+
+---
+
+🛠 Always building, always learning — let’s innovate for a better tomorrow.
+
