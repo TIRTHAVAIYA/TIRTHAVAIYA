@@ -5,6 +5,8 @@ I'm passionate about creating intelligent systems that solve real-world problems
 ---
 
 🌱 Projects That Matter
+
+
 🔗 EcoMate – Agentic AI for SDG 13 (Climate Action)
 Real-time weather updates, AQI analysis, carbon footprint estimation, and smart transport suggestions — all in one intelligent assistant.
 Built with: Python, Gradio, LangChain, OpenAI, Weather APIs
