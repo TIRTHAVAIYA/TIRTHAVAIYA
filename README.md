@@ -43,7 +43,7 @@ Gradio • LangChain • OpenAI API • Google Colab • Git & GitHub • API In
 ## 💡 Leadership & Community
 
 - 📌 **Management Lead – Google Developer Groups (GDG), GEC Bhavnagar**  
-- 🏋️ **President – The Purple Dopamine Club**, promoting fitness and mental wellness  
+- 🏋️ **President – The Purple Dopamine Club**(GEC Bhavnagar), promoting fitness and mental wellness  
 ---
 
 ## 📫 Let's Connect
