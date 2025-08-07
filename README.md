@@ -20,10 +20,14 @@ A deep learning project that classifies satellite images into land use and land 
 Built with: Python, TensorFlow, Gradio, Matplotlib
 
 🧠 Skills & Tools
+
+
 Python • Machine Learning • Deep Learning • CNN • Scikit-learn • TensorFlow
 Gradio • LangChain • OpenAI API • Google Colab • Git & GitHub • API Integration
 
 🚀 Interests
+
+
 🌾 Smart and Sustainable Agriculture
 
 🌦️ Climate Intelligence & Monitoring
@@ -40,8 +44,6 @@ Gradio • LangChain • OpenAI API • Google Colab • Git & GitHub • API In
 
 - 📌 **Management Lead – Google Developer Groups (GDG), GEC Bhavnagar**  
 - 🏋️ **President – The Purple Dopamine Club**, promoting fitness and mental wellness  
-- 🧩 Active in organizing tech workshops, hackathons, and AI awareness campaigns
-
 ---
 
 ## 📫 Let's Connect
