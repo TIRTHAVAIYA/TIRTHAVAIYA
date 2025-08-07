@@ -4,31 +4,33 @@ I'm passionate about creating intelligent systems that solve real-world problems
 
 ---
 
-## 🌱 Projects That Matter
+🌱 Projects That Matter
+🔗 EcoMate – Agentic AI for SDG 13 (Climate Action)
+Real-time weather updates, AQI analysis, carbon footprint estimation, and smart transport suggestions — all in one intelligent assistant.
+Built with: Python, Gradio, LangChain, OpenAI, Weather APIs
 
-- 🔗 [**EcoMate – Agentic AI for SDG 13 (Climate Action)**](https://github.com/TIRTHAVAIYA/EcoMate-Agentic-AI)  
-  Real-time weather updates, AQI analysis, carbon footprint estimation, and smart transport suggestions — all in one intelligent assistant.  
-  *Built with: Python, Gradio, LangChain, OpenAI, Weather APIs*
+🔗 AgroEye – ML Crop Health Predictor for SDG 2 (Zero Hunger)
+A machine learning project for analyzing crop health from agricultural data — helping pave the way for smart farming practices.
+Built with: Python, Scikit-learn, Gradio
 
-- 🔗 [**AgroEye – ML Crop Health Predictor for SDG 2 (Zero Hunger)**](https://github.com/TIRTHAVAIYA/AgroEye-ML-Crop-Health-Predictor)  
-  A machine learning project for analyzing crop health from agricultural data — helping pave the way for smart farming practices.  
-  *Built with: Python, Scikit-learn, Gradio*
+🔗 VisionEarth – CNN-Based Satellite Image Classifier
+A deep learning project that classifies satellite images into land use and land cover categories using Convolutional Neural Networks (CNN).
+Built with: Python, TensorFlow, Gradio, Matplotlib
 
----
+🧠 Skills & Tools
+Python • Machine Learning • Deep Learning • CNN • Scikit-learn • TensorFlow
+Gradio • LangChain • OpenAI API • Google Colab • Git & GitHub • API Integration
 
-## 🧠 Skills & Tools
+🚀 Interests
+🌾 Smart and Sustainable Agriculture
 
-`Python` • `Machine Learning` • `Gradio` • `LangChain` • `OpenAI API`  
-`Google Colab` • `Scikit-learn` • `Git & GitHub` • `API Integration`
+🌦️ Climate Intelligence & Monitoring
 
----
+🛰️ Earth Observation and Remote Sensing
 
-## 🚀 Interests
+🧠 Agentic AI and Applied Machine Learning
 
-- 🌾 Smart and Sustainable Agriculture  
-- 🌦️ Climate Intelligence & Monitoring  
-- 🛰️ Earth Observation and Remote Sensing  
-- 🧠 Agentic AI and Applied Machine Learning
+
 
 ---
 
