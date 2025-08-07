@@ -53,5 +53,5 @@ Gradio • LangChain • OpenAI API • Google Colab • Git & GitHub • API In
 
 ---
 
-🛠 Always building, always learning — let’s innovate for a better tomorrow.
+🛠 Always building, always learning — let’s innovate for a better tomorrow. [TRAIN->TEST->LAUNCH]
 
